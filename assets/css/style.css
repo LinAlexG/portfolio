@@ -982,7 +982,7 @@ Sticky Menu
 .feature-eight-section {
     padding: 100px 0px 100px;
     background-color: #fff;
-    background-image: url(../img/app-landing/shape/bg_line_opa70.png);
+    background-image: url(../img/app-landing/shape/f-shape1.png);
     background-size: auto;
     background-repeat: no-repeat;
     background-position: right;
@@ -11469,6 +11469,10 @@ Sticky Menu
 .str-feature-section {
     padding: 100px 0px 100px;
     background-color: #fff;
+    background-image: url(../img/app-landing/shape/bl-shape.png);
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: left;
 }
 
 .str-feature-section .str-feature-icon-text {
