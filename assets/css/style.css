@@ -982,6 +982,10 @@ Sticky Menu
 .feature-eight-section {
     padding: 100px 0px 100px;
     background-color: #fff;
+    background-image: url(../img/app-landing/shape/bg_line_opa70.png);
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: right;
 }
 
 .feature-eight-section .ei-feature-shape {
