@@ -266,6 +266,7 @@ select:visited {
 
 .eight-section-title {
     margin: 0 auto;
+    padding: 20px;
 }
 
 .eight-section-title .eg-title-tag {
@@ -11469,7 +11470,7 @@ Sticky Menu
 .str-feature-section {
     padding: 100px 0px 100px;
     background-color: #fff;
-    background-image: url(../img/app-landing/shape/bl-shape.png);
+    background-image: url();
     background-size: auto;
     background-repeat: no-repeat;
     background-position: left;
