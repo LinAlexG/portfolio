@@ -2,9 +2,21 @@
 	Canvas: Resume
 -----------------------------------------------------------------*/
 
-a.bton-web{ background: #424ec6; padding: 10px 30px; border-radius: 30px; color: #fff; position: relative; top: 30px;}
-a.bton-web:hover{ background: #333; padding: 10px 30px; border-radius: 30px; color: #fff;}
+a.bton-web {
+    background: #424ec6;
+    padding: 10px 30px;
+    border-radius: 30px;
+    color: #fff;
+    position: relative;
+    top: 30px;
+}
 
+a.bton-web:hover {
+    background: #333;
+    padding: 10px 30px;
+    border-radius: 30px;
+    color: #fff;
+}
 
 .contact {
     padding: 4em 5em;
@@ -352,18 +364,21 @@ a.bton-web:hover{ background: #333; padding: 10px 30px; border-radius: 30px; col
 }
 
 .FoodCarousel-Button {
-   
     font-size: 13px;
     line-height: 13px;
     font-weight: 700;
     font-style: normal;
     padding: 15px 70px 15px 50px;
     text-decoration: none;
-
     text-align: left;
     letter-spacing: 1px;
 }
 
 .p-transparent {
     color: #fff;
+}
+
+#footer {
+    margin: 0em 0 0 !important;
+    opacity: 1 !important;
 }

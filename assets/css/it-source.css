@@ -1234,8 +1234,6 @@ select:visited {
 .it-up-service-tab-btn .nav-tabs .nav-link {
     color: #bebebe;
     font-size: 20px;
-    font-weight: 700;
-    font-family: "Nunito";
 }
 
 .it-up-service-tab-btn .nav-tabs .nav-link:before {
